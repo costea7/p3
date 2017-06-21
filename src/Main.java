@@ -9,5 +9,5 @@
  * @author Iulian
  */
 public class Main {
-  
+  System.out.println("aaaaa");
 }
